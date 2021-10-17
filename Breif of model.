@@ -1,0 +1,2 @@
+The LSTM model can be tuned for various parameters such as changing the number of LSTM layers, adding dropout value or increasing the number of epochs.
+But are the predictions from LSTM enough to identify whether the stock price will increase or decrease
